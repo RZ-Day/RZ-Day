@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning full stack development with Tech Elevator!
+How to reach me:
+    ryan0699@gmail.com
