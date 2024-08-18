@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning full stack development with Tech Elevator!
+I'm going to be a coding God. Catch me soon before I reach peak velocity.
 How to reach me:
     ryan0699@gmail.com
