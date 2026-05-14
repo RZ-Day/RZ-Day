@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Hell
 
 <!--
 **RZ-Day/RZ-Day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm going to be a coding God. Catch me soon before I reach peak velocity.
+- Developer with 2+ years experience
+- Strong believer in the indomitable human spirit
+
 How to reach me:
     ryan0699@gmail.com
